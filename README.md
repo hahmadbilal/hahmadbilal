@@ -1,214 +1,78 @@
-# Hi 👋 I'm Ahmad Bilal
+# Ahmad Bilal Goraya
+### Chief Technology Officer · Solution Architect · Engineering Leader
 
-### Senior Android Developer | Mobile Architect
+I build scalable software products and lead the teams behind them. With **15+ years in software engineering**, my experience spans consumer marketplaces, real estate, telecommunications, mobile games and startup platforms.
 
-📱 Android developer with **14+ years of experience** building scalable mobile applications and games.  
-I specialize in **Kotlin, Java, modern Android architecture, and performance optimization**.
+Currently **CTO at Spiderbytes Studio**, overseeing mobile, server and blockchain products. Previously **Solution Architect at Dubizzle Labs**, helping deliver applications used by millions of people across Dubizzle, Bayut, Zameen, OLX and other regional brands.
 
-I have contributed to large-scale applications used by **millions of users**, including platforms like **Dubizzle, Bayut, Zameen, OLX, and Bproperty**.  
+[LinkedIn](https://www.linkedin.com/in/ahmad-bilal-20748859/) · [Email](mailto:hafiz.bilal17@gmail.com) · Lahore, Pakistan
 
-[oai_citation:0‡Ahmad_Bilal_Senior_Android_Developer_00923234675346.pdf](sediment://file_00000000fb847207bf4953dab64ae01a)
+## Engineering impact
 
----
+- Led delivery across **8+ consumer applications** and contributed to **50+ roadmap initiatives**, coordinating Product, Design, QA and Engineering.
+- Helped grow a team from approximately **10–12 to 50–60 people** through technical hiring over 2–3 years, and mentored **5–10 Android engineers**.
+- Guided architecture reviews, code quality, CI/CD improvements, release governance and production troubleshooting.
+- Managed team budgets, supported annual planning and project estimates, and conducted regular coaching and performance reviews.
+- Reduced Android build complexity by **30%** on DragonVale through Gradle task modernisation and Groovy build-script optimisation.
 
-# 🚀 About Me
+## Technical toolkit
 
-- 📱 Senior Android Developer
-- 🏢 Currently working at **Dubizzle Labs**
-- 🧠 Passionate about **clean architecture and scalable mobile systems**
-- 🔧 Focused on **performance optimization and modern Android development**
-- 🌍 Experience in **real estate platforms, mobile games, VoIP apps, and SDK development**
+| Area | Skills and technologies |
+| --- | --- |
+| Languages & mobile | Kotlin, Java, Dart, Android SDK, Jetpack Compose, Coroutines |
+| Architecture | MVVM, MVP, modular design, reusable SDKs, shared libraries, API design and integration |
+| Production engineering | Startup and memory optimisation, lifecycle management, multithreading, crash and ANR investigation |
+| Testing & delivery | Unit and end-to-end testing, Appium, Playwright, GitHub Actions, Jenkins, CircleCI, Bitrise, Spinnaker |
+| Build & version control | Gradle, Groovy, Maven publishing, semantic versioning, Git, GitHub, GitLab, Bitbucket |
+| Data & services | SQLite, Realm, Microsoft SQL, AWS services, Firebase Remote Config, Algolia, Elasticsearch, Retrofit, Volley |
+| Communication & games | Socket.IO, SIP, PJSUA, Unity and Cocos2d integration, Java Play integration |
+| Analytics & monetisation | AppsFlyer, IronSource, AdMob, Facebook Audience Network, A/B testing and backend-driven configuration |
+| Security | Authentication, token vaults, encryption and layered login protection |
+| Leadership | Technical hiring, mentoring, performance management, Agile delivery, budget planning and stakeholder coordination |
 
----
+## Experience
 
-# 📱 Major Applications I Worked On
+### Chief Technology Officer · Spiderbytes Studio
+**Mar 2026 – Present**
 
-### Real Estate Platforms
-- Dubizzle
-- Bayut
-- Zameen
-- OLX
-- Bproperty
-- Lamudi
-- Hatla2ee
+Lead technology across multiple startup products spanning Android, iOS, server components, Rust and the Polkadot blockchain ecosystem. Oversee SnabCabb driver and admin applications, a scam detection application, a camera scanner application, and Tamizio for scheduling and task management.
 
-### Mobile Applications
-- Jazz People
-- StoreToDoor
-- Twitch Alert
+### Solution Architect · Dubizzle Labs
+**Sep 2020 – Jun 2026**
 
-### Games
-- DragonVale
-- Zombie Catcher
-- Dream Fish
-- Puzzle Fantasy
-- Time Teens
+Led engineering delivery across Dubizzle, Bayut, Zameen, OLX, Lamudi, Bproperty, Hatla2ee and Bayut KSA. Coordinated distributed teams, cross-product dependencies and releases, resolved delivery blockers, and coached Android engineers on modular architecture and production quality.
 
----
+### Senior Software Engineer · Caramel Tech Studios
+**Mar 2016 – Sep 2020**
 
-# 🛠 Tech Stack
+Delivered 7+ production Android applications and mobile games, including DragonVale, Zombie Catcher, Twitch Alert, Jazz People, Store To Door, FIZZ and Blades of Battle. Built a reusable Android Chat SDK for messaging, clans, guilds and chat rooms across Android, Unity and Cocos2d-x. Integrated advertising, analytics and remote configuration for live operations.
 
-## Languages
-- Kotlin
-- Java
-- Dart
+### Senior Software Engineer · Verscom Solution
+**Aug 2015 – Feb 2016**
 
-## Android Development
-- Jetpack Compose
-- Android SDK
-- Coroutines
-- Kotlin Flow
-- Retrofit
-- Volley
-- Glide / Coil / Picasso
+Developed RingMi, Twigo and Hodaj Me using Android, PJSUA and SIP, with a focus on reliable voice communication and performance.
 
-## Architecture
-- MVVM
-- MVP
-- Clean Architecture
-- Feature Layer Architecture
+### Architect Application Development · Axact Pvt Ltd
+**Jul 2014 – Aug 2015**
 
-## Databases
-- SQLite
-- Realm
-- Microsoft SQL
+Developed Android products across social networking, cloud storage and e-commerce, integrating AWS services, Socket.IO, payment systems and third-party APIs. Projects included Daddy Drive, EzCar, iMarket and Voto Messenger.
 
-## SDKs & Services
-- Firebase
-- Google Play Services
-- AppsFlyer
-- IronSource
-- Facebook SDK
-- MoEngage
-- Tapdaq
-- Uqudo
+### Senior Software Engineer · Techlogix
+**May 2014 – Jul 2014**
 
-## CI/CD
-- Jenkins
-- Circle CI
-- Bitrise
-- Spinnaker
+Developed event management and visitor contact applications with AWS services, including atEvent Card Scanner and atEvent CheckIn.
 
-## Tools
-- Android Studio
-- Git
-- Gradle
-- Bitbucket
-- GitLab
-- Jira
-- Asana
-- ClickUp
-- Slack
+### Senior Software Engineer · GameView Pakistan, part of DeNA Japan
+**Jul 2011 – May 2014**
 
----
+Worked with DeNA Japan teams, including on-site collaboration, on Dream Fish, Dream Ranch, Puzzle Fantasy, Time Teens and Tuylu. Developed Android and game integrations with Cocos2d, Unity, Socket.IO and Java Play.
 
-# 💼 Professional Experience
+## Education
 
-## Senior Android Developer  
-**Dubizzle Labs** | 2020 – Present
+**BS Computer Science (Honours)** · Punjab University College of Information Technology, University of the Punjab · 2007–2011
 
-Working on large-scale property and marketplace applications serving millions of users.
+## Connect
 
-Projects include:
+Interested in engineering leadership, software architecture, mobile platforms and building reliable products at scale.
 
-- Dubizzle
-- Bayut
-- Zameen
-- OLX
-- Bproperty
-- Lamudi
-
-Responsibilities include:
-
-- Designing scalable Android architecture
-- Performance optimization
-- Collaborating with solution architects and UI/UX teams
-- Improving reliability and user experience
-
----
-
-## Senior Software Engineer  
-**Caramel Tech Studios** | 2016 – 2020
-
-Developed several Android applications and games.
-
-Projects:
-
-- DragonVale
-- Zombie Catcher
-- Twitch Alert
-- Jazz People
-- StoreToDoor
-- FIZZ
-- Blades of Battle
-
-Key contributions:
-
-- Ads SDK integration
-- Firebase implementation
-- Gradle pipeline optimization
-- Chat SDK development
-
----
-
-## Senior Software Engineer  
-**Verscom Solution** | 2015 – 2016
-
-Developed **Android VoIP applications** using the **PJSUA client**.
-
-Projects:
-
-- RingMi
-- Twigo
-- HodajMe
-
----
-
-## Architect Application Developer  
-**Axact** | 2014 – 2015
-
-Developed multiple Android applications integrating:
-
-- AWS Services
-- Social APIs
-- Payment systems
-- Real-time communication
-
-Projects include:
-
-- Daddy Drive
-- EzCar
-- iMarket
-- Voto Messenger
-
----
-
-# 📊 GitHub Stats
-
-![Bilal GitHub stats](https://github-readme-stats.vercel.app/api?username=hahmadbilal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahmadbilal&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=hahmadbilal)
-
----
-
-# 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hahmadbilal&theme=github)
-
----
-
-# 📫 Contact Me
-
-📧 Email: hafiz.bilal17@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/your-link  
-💻 GitHub: https://github.com/hahmadbilal
-
----
-
-⭐️ From [Ahmad Bilal](https://github.com/hahmadbilal)
+[Connect on LinkedIn](https://www.linkedin.com/in/ahmad-bilal-20748859/) · [Get in touch](mailto:hafiz.bilal17@gmail.com)
